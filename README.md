@@ -1,4 +1,3 @@
-![Career Match Banner](./assets/banner.png)
 
 # 🎓 Career Match — University Course Matching App
 
